@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/banner.png" alt="stratum-client-ts" width="640"></p>
+
 # stratum-client-ts
 
 Browser-compatible TypeScript Stratum v1 client for Lotus native SHA-256 (LotusHash) mining.
